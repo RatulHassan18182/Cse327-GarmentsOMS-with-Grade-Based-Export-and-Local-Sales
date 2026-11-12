@@ -1,7 +1,7 @@
 # Cse327-GarmentsOMS-with-Grade-Based-Export-and-Local-Sales
 Cse327-Software Engineering
 
-Group Name: 
+Group Name: System Architects
 
 MEMBERS:
 1. Ratul Hassan Niloy (2323197642)
